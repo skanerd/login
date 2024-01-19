@@ -1,0 +1,10 @@
+1. ログインフォーム（HTML）、PW忘れた場合
+2. DB テーブル作成、（oracle）接続
+3. JAVA コード作成（postで送ったデータ）
+4. JAVAを利用し入力したデータとDBのデータ確認
+5. JS、CSS レイアウト
+
+
+JAVA作成（SPRING BOOT）
+CookieじゃなくSession使用
+JSP使用 X
